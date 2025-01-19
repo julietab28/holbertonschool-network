@@ -1,0 +1,1 @@
+what happens when your type google.com in your browserand press enter
