@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 #Lista todas las ipv4 activas
 
-ip -4 addr show | grep -oP
+ifconfig | grep -oP 'inet '
